@@ -1,0 +1,10 @@
+beautifulsoup4==4.9.1
+click==7.1.2
+Flask==1.1.2
+Flask-Cors==3.0.8
+Markdown==3.2.2
+regex==2020.6.8
+requests2==2.16.0
+selenium==3.141.0
+soupsieve==2.0.1
+virtualenv==20.0.25
